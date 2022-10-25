@@ -1,9 +1,23 @@
-#Cloned down repo using the terminal
-#cd into the new folder
-#run the git commands
-
+# Task 1
 
 # Declare a variable called favorite_number and store your favorite or lucky number within it. 
+# Take a screenshot of your code that includes the file name/tab, line numbers, and code.
+# Exclude the explorer sidebar
+# Send the screenshot to your instructor chat channel.
+
+
+# Task 2 
+# Declare a variable called favorite_number and store your favorite or lucky number within it. 
+# Use the random module to generate a random number between a range that includes your favorite number.
+# Determine how many numbers away the random number was from your favorite number
+# Send a screenshot of your completed code to your instructor chat channel.
+
+
+# Task 3
+# Create a while loop that generates a random number and checks if it matches your favorite number.
+# Keep track of how many times the computer has guessed.
+# Once the computer guesses the correct number, display a message explaining how many attempts it took the computer to guess your favorite number.
+
 favorite_number = 3
 
 
